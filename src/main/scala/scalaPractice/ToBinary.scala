@@ -22,6 +22,7 @@ object ToBinary {
         vari = vari / 2
       }
     }
+    //returning
     q.toString() + bin.reverse
   }
 
